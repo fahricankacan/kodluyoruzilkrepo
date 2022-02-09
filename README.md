@@ -19,6 +19,11 @@ git clone https://github.com/fahricankacan/kodluyoruzilkrepo
  code .
  ```
 
+ ### CSharp Deneme
+ ```c#
+ Console.WriteLine("Hello World");
+ ```
+
  ## Contributing
  Pull requestler kabul edilir. Büyük değişikliker için , lütfen önce neyi değişirmek istediğinizi tartışmak için bir konu açınız.
 
