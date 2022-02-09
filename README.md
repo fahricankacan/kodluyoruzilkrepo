@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Eğitimi kapsamında açtığım ilk repo
 
-![StokTakip](resorces/Screen Shot 9.02.2022 at 17.52.png)
+![StokTakip](resorces/anasayfa.png)
 
 ## Installation
 
@@ -19,7 +19,7 @@ git clone https://github.com/fahricankacan/kodluyoruzilkrepo
  code .
  ```
 
- ##Contributing
+ ## Contributing
  Pull requestler kabul edilir. Büyük değişikliker için , lütfen önce neyi değişirmek istediğinizi tartışmak için bir konu açınız.
 
  ##Lisance
