@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Eğitimi kapsamında açtığım ilk repo
 
-![StokTakip](resorces\Screen Shot 9.02.2022 at 17.52.png)
+![StokTakip](resorces/Screen Shot 9.02.2022 at 17.52.png)
 
 ## Installation
 
